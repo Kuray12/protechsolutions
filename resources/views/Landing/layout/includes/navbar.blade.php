@@ -24,7 +24,6 @@
               Tools Scanning
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="{{ route('sudo') }}">Subdomain Scanning</a></li>
               <li><a class="dropdown-item" href="{{ route('ip') }}">Ip Scanning</a></li>
             </ul>
           <li class="nav-item">
